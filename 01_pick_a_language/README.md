@@ -5,7 +5,7 @@ The first part is picking a programming language, which is needed to learn and p
 But seriously, why Zig? That is because by looking at the home page, it contains some great benefits as a pretty barebones language, which doesn't hold your hand when dealing with memory, *that* and it also has readable documentation. 
 
 #### Learning Resources:
-* [Getting started](https://ziglang.org/learn/getting-started/#next-steps) found on the ziglang website
+* [Getting started](https://ziglang.org/learn/getting-started) found on the ziglang website
 * [Zig.guide](https://zig.guide/) by [Sobeston](https://github.com/Sobeston/zig.guide)
 * [Ziglings](https://codeberg.org/ziglings/exercises/)
 * [Zig on Exercism](https://exercism.org/tracks/zig)
